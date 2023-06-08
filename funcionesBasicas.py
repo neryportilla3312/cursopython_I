@@ -11,6 +11,8 @@ print(min(1,2,3,4,5))
 print(max(1,2,3,4,5,100))
 print(ord('y'))
 
+print(dir("a"))
+
 
 
 
