@@ -20,4 +20,5 @@ t2 = pow(t,1/4)
 
 # se obtiene el valor de la raíz cuarta 
 
+# se imprime el resultado limitando el número de decimales
 print("El valor de la temperatura es de: " + "{0:.3f}".format(t2)+" K")
