@@ -16,12 +16,12 @@ holaAlumno("Joaquin") # llamada a la función
 # función con multiples parametros 
 
 
-def seq(prec, temp): 
-    temp2 = 2 * temp
-    if prec < temp2
-    return "mes de sequía"
+#def seq(prec, temp): 
+#    temp2 = 2 * temp
+#    if prec < temp2
+#    return "mes de sequía"
 
-seq(20,12)
+#seq(20,12)
 
 
 
