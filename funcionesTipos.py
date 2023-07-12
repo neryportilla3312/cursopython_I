@@ -4,6 +4,8 @@
 def holaMundo():
     print("Hola a todo el mundo")
 
+
+
 holaMundo() # llamada a la función
 
 #Ejemplo2 : función con parametro 
