@@ -29,4 +29,8 @@ text = input("Escribe algo...")
 print(5*text)
 
 num = int(input("Escribe algo"))
+# cast para convertir a un número y poder realizar operaciones 
+
 print(5*num)
+
+# el texto ingresado por el usuario se convierte en una cadena 
