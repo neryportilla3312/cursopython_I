@@ -13,7 +13,13 @@ t = (((constanteSolar)*(1-albedoValor))/(4*emisividadCuerpoNegro*constanteStefan
 t2 = pow(t,1/4)    # parte de la formula de T a la cuarta potencia 
 
 
-print("{0:.3f}".format(t2)+" K")
+print("{0:.2f}".format(t2)+" K")
+
+# se limitan los decimales a solamente tres cifras, y se establece 
+#a la variable para limitar la cantidad de decimales.
+#. format funciona para limitar los decimales 
+# se concatena a la contante de K para establecer las unidades 
+
 
 
 
