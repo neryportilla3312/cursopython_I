@@ -60,6 +60,8 @@ print(min)
 texto = "vamos a jugar uno con uno de mis amigos"
 print(texto.find("os"))
 
+print(texto.find("os")) #nueva linea de texto
+
 
 
 #index 
