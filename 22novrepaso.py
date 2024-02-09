@@ -40,10 +40,7 @@ else:
 
 print("gracias!")
 
-#ciclo for
-numeros = [10,15,200,2]
-for i in numeros:
-print(i)
+
 
 
 
